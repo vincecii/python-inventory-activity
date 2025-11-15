@@ -21,3 +21,5 @@ Do NOT include deleting items or out-of-stock features.
 
 
 
+<img width="363" height="518" alt="Screenshot 2025-11-15 231816" src="https://github.com/user-attachments/assets/79d1bce7-6be9-478d-aa19-763af3b41b6a" />
+<img width="285" height="644" alt="Screenshot 2025-11-15 231738" src="https://github.com/user-attachments/assets/2ddb8847-a861-41b6-82bd-3ffd87544894" />
